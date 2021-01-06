@@ -61,6 +61,7 @@ setup(
         "mp3",
         "album",
         "metadata",
+        "sound",
     ],
 
     classifiers=[
